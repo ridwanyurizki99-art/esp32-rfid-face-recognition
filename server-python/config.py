@@ -11,8 +11,8 @@ import json
 # ==========================================
 
 # --- WiFi untuk ESP32-S3 ---
-WIFI_SSID = "FRISS"
-WIFI_PASSWORD = "mamahfris"
+WIFI_SSID = "realme C65"
+WIFI_PASSWORD = "11111111"
 
 # --- IP Address Perangkat ---
 # IP LAPTOP/PC (tempat backend Python berjalan)
